@@ -3,7 +3,7 @@ function copyArray(arr) {
 
   return arrCopy;
 
-  //return 5;
+  //return 5; //Doest return an array
   //arr.push(5); //Mutates original array
   //return arr; //Doesn't return a new array
 }
